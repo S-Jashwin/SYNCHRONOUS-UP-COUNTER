@@ -73,7 +73,12 @@ RegisterNumber:212224040131
 
 
 **TRUTH TABLE**
-![image](https://github.com/user-attachments/assets/9f0377f0-76b9-4d68-b45f-e8df25cb586e)
+
+
+
+
+![image](https://github.com/user-attachments/assets/6cef1157-0e9f-40fa-a4ee-bd9298097413)
+
 
 
 **RESULTS**
